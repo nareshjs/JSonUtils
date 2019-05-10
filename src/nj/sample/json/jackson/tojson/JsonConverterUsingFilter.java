@@ -43,5 +43,8 @@ public class JsonConverterUsingFilter {
         catch (IOException e){
             e.printStackTrace();
         }
+        finally {
+            System.out.println("Add the JsonFilter annotations to the class to have this working code as expected, else filter is not applied!!");
+        }
     }
 }
