@@ -12,7 +12,7 @@ import nj.sample.json.Other;
 import java.io.IOException;
 
 /**
- * Created by nsrinivasulu on 10-May-19.
+ * This uses custom serializer
  */
 public class JsonConverterUsingCustomSerializer {
     public static void main(String []args)
